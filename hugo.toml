@@ -3,3 +3,10 @@ baseURL = 'https://www.gx1.me/'
 theme = 'coming-soon'
 languageCode = 'en-us'
 title = 'gx1'
+
+[params]
+    title = "Coming Soon gx1" 
+    description = "gx1 site"
+    favicon = ""
+    message = "COMING SOON!" 
+    release = "June 30, 2024" 
