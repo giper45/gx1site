@@ -1,0 +1,5 @@
+baseURL = 'https://giper45.github.io/gx1site/'
+#theme = 'm10c'
+theme = 'coming-soon'
+languageCode = 'en-us'
+title = 'gx1'
