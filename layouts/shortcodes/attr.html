@@ -1,0 +1,6 @@
+<p
+    {{ if .Get "class"}}class="{{ .Get "class" }}"{{ end }}
+    {{ if .Get "id" }}id="{{ .Get "id" }}"{{ end }}
+    {{ if .Get "name" }}name="{{ .Get "name" }}"{{ end }}
+    {{ if .Get "style" }}style="{{ .Get "style" }}"{{ end }}
+>{{ .Inner }}</p>

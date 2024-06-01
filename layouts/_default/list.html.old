@@ -1,9 +1,13 @@
 {{ define "main" }}
   <article>
     <h1>{{ .Title }}</h1>
-    Hi folks, this is my personal website. You can find different thoughts about hacking, security research, development, and so on.
+    <div class="text-center"><i>{{ .Description }} </i></div>
+    <!-- Hi folks, this is my personal website. You can find different thoughts about hacking, security research, development, and so on. -->
+    {{ if .IsHome }}
     <br/>
-    <a href="/about"> Who am I? </a>
+    <h3 class="text-center"> <a href="/about"> Who am I? </a> </h3>
+    {{ end }}
+
 
     <ul class="posts-list">
       {{ range where .Paginator.Pages "Type" "!=" "page" }}

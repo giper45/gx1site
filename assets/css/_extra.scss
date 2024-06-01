@@ -1,15 +1,8 @@
 @font-face {
-    font-family: 'science';
+    font-family: 'poppins';
     font-style: normal;
     font-weight: normal;
-    src: local('science'), url('/science-fair.otf') format('opentype');
-  }
-
-@font-face {
-    font-family: 'feel-free';
-    font-style: normal;
-    font-weight: normal;
-    src: local('feel-free'), url('/FeelfreePersonalUseRegular-lg2Bw.ttf') format('truetype');
+    src: local('poppins'), url('/poppins.ttf') format('truetype');
 }
 
 
@@ -21,5 +14,53 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color: #e7e7e7;
-  font-family: "science", Helvetica, Arial, sans-serif;
+  font-family: "poppins", Helvetica, Arial, sans-serif;
+}
+
+.app-header-avatar {
+  width: 15rem;
+  height: 15rem;
+  padding: 10px;
+  background-color: $dark-color;
+  border-radius: 100%;
+  border: 0.5rem solid $primary-color;
+}
+
+
+
+.text-center {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+
+// .image-container {
+
+//   display: flex; 
+//   justify-content: center; 
+//   align-items: center
+
+// }
+img {
+ 
+    width: 100%;
+    max-width: 100%;
+}
+
+// body {
+//   display: flex;
+//   width: auto;
+//   min-width: auto;
+
+// }
+
+@media (min-width: 940px) {
+  .app-container {
+    max-width: 65rem;
+    margin-left: 30rem;
+  }
 }
