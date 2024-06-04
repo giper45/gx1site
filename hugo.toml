@@ -5,6 +5,7 @@ title = 'Gx1 Website'
 enableEmoji = true
 
 [params]
+author = 'Gx1'
 avatar = 'avatar.png'
 description = "Hi folks, here you find my thoughts about development, security, and research."
 
