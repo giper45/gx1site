@@ -6,7 +6,7 @@ draft = true
 
 
 
-I am a security passionate about software development, cybersecurity, and computer science research.
+I am Gaetano Perrone, a compiuter science passionate about software development, cybersecurity, and research.
 
 
 ### 💻 Development skills

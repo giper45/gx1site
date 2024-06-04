@@ -1,7 +1,7 @@
 baseURL = 'https://www.gx1.me/'
 theme = 'm10c'
 languageCode = 'en-us'
-title = 'Gx1 Site'
+title = 'Gx1 Website'
 enableEmoji = true
 
 [params]
@@ -28,11 +28,11 @@ description = "Hi folks, here you find my thoughts about development, security, 
     url = "/dev/"
     weight = 3
     
-  [[menu.main]]
-    identifier = "research"
-    name = "Research"
-    url = "/research/"
-    weight = 4
+  #[[menu.main]]
+  #  identifier = "research"
+  #  name = "Research"
+  #  url = "/research/"
+  #  weight = 4
 
   
   [[menu.main]]
@@ -69,3 +69,8 @@ description = "Hi folks, here you find my thoughts about development, security, 
     name = "LinkedIn"
     url = "https://www.linkedin.com/in/gaetano-perrone-60520961/"
 
+
+  [[params.social]]
+    icon = "mail"
+    name = "Mail"
+    url = "mailto:g.per45@gmail.com"

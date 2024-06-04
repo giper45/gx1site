@@ -1,4 +1,4 @@
 ---
 title: Security posts
-description : "My security pillars"
+description : "My posts about cybersecurity."
 ---
