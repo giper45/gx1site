@@ -2,7 +2,7 @@
 title = 'Web Application Hardening'
 date = 2022-06-02T10:12:56+02:00
 tags = ["sec", "hacking", "web security", "web"]
-draft = true
+draft = false
 +++
 
 

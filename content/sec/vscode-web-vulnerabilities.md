@@ -2,7 +2,7 @@
 title = 'Leveraging Docker + VSCode to study web vulnerabilities'
 date = 2024-06-04T08:26:31+02:00
 tags = ["sec", "hacking", "web security", "web", "vscode", "docker"]
-draft = true
+draft = false
 +++
 
 

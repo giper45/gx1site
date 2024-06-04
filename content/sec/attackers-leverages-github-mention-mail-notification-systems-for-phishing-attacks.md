@@ -1,7 +1,7 @@
 +++
 title = 'Attackers Leverages Github Mention Mail Notification Systems for Phishing Attacks'
 date = 2024-05-31T18:54:03+02:00
-draft = true
+draft = false
 tags = ["sec", "phishing"]
 +++
 

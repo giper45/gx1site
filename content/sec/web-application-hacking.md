@@ -2,7 +2,7 @@
 title = 'Web Application Hacking - An introduction'
 date = 2023-03-01T10:21:36+02:00
 tags = ["sec", "hacking", "web security", "web"]
-draft = true
+draft = false
 +++
 
 
