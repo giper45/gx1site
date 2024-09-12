@@ -29,11 +29,11 @@ description = "Hi folks, here you find my thoughts about development, security, 
     url = "/dev/"
     weight = 3
     
-  #[[menu.main]]
-  #  identifier = "research"
-  #  name = "Research"
-  #  url = "/research/"
-  #  weight = 4
+  [[menu.main]]
+    identifier = "research"
+    name = "Research"
+    url = "/research/"
+    weight = 4
 
   
   [[menu.main]]
@@ -50,10 +50,17 @@ description = "Hi folks, here you find my thoughts about development, security, 
 
 
 [params.style]
-  #darkestColor = "#d35050"
-  #darkColor = "#212121"
+  # The side colorr
+  #darkestColor = "red"
+  darkestColor = "#202020"
+  
+  # Background main
+  darkColor = "#181818"
+  # ?
   lightColor = "#f5e3e0"
+  # TITLE
   lightestColor = "#f5f5f5"
+  # Tags and border (orange)
   primaryColor = "#d35100"
 
 
