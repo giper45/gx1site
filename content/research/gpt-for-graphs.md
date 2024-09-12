@@ -43,7 +43,7 @@ The main problem is that ChatGPT is a generative AI, and its best performance is
 
 
 
-## Prequirements
+## Requirements
 
 - A ChatGPT account (for small graphs, free account, but more complex examples require the GPT4-o version).
 
@@ -79,7 +79,6 @@ And adjust the diagrams.
 
 
 ## Conclusions
-ChatGPT 
-
+ChatGPT is a great tool, but you have to use it with proper cognition, and with just a bit of ... fantasy.
 You can extend the experiments by trying other formats, such as **plantUML**. 
 Look at [kroki](https://kroki.io/#try) examples to select a diagram format, and experiment. 
